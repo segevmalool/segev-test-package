@@ -6,6 +6,9 @@
     "ci": "npm install && npm run build && echo ci script run",
     "test": "echo test script run"
   },
+  "files": [
+    "dist/*"
+  ],
   "devDependencies": {
     "typescript": "^4.8.4"
   }
