@@ -7,7 +7,7 @@
     "test": "echo test script run"
   },
   "publishConfig": {
-    "@segevmalool:registry": "https://pkg.npm.github.com"
+    "registry": "https://pkg.npm.github.com/"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
