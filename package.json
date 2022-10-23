@@ -1,10 +1,11 @@
 {
   "name": "@segevmalool/segev-test-package",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "scripts": {
     "build": "tsc",
     "test": "echo test script run"
   },
+  "main": "index.js",
   "files": [
     "dist/*"
   ],
