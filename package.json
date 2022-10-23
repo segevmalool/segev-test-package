@@ -1,13 +1,10 @@
 {
   "name": "@segevmalool/segev-test-package",
-  "version": "1.0.0",
+  "version": "0.0.8",
   "scripts": {
     "build": "tsc",
     "ci": "npm install && npm run build && echo ci script run",
     "test": "echo test script run"
-  },
-  "publishConfig": {
-    "registry": "https://pkg.npm.github.com/"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
