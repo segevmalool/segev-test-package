@@ -1,6 +1,6 @@
 {
   "name": "@segevmalool/segev-test-package",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "scripts": {
     "build": "tsc",
     "ci": "npm install && npm run build && echo ci script run",
